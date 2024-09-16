@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name         Gitlab Clone
 // @namespace    http://tampermonkey.net/
-// @downloadURL  https://github.com/arog-lahcim/gitlab-clone-extension/tempermonkey.js
+// @downloadURL  https://raw.githubusercontent.com/arog-lahcim/gitlab-clone-extension/main/tempermonkey.js
+// @updateURL    https://raw.githubusercontent.com/arog-lahcim/gitlab-clone-extension/main/tempermonkey.js
 // @version      2024-09-16
 // @description  Build git clone script for all nested repositories.
 // @author       arog-lahcim
